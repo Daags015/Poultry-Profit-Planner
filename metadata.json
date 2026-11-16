@@ -1,0 +1,6 @@
+{
+  "name": "Poultry Profit Planner",
+  "description": "Plan Better. Calculate Smarter. Farm Profitably. Offline-first poultry business planning, financial modeling, and active farm management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
